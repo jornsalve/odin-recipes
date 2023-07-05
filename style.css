@@ -1,0 +1,45 @@
+h1 {
+  background-color: #b8f1bb;
+  text-align: center; 
+  padding: 30px;
+}
+
+h2, h3 {
+    text-align: center; 
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 400px;
+  width: auto;
+}
+
+ul {
+    list-style: none;
+    text-align: center;
+}
+
+ol {
+    background-color: #f5cdcd;
+    padding: 30px;
+}
+
+.frontpage {
+  
+  font-size: 45px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-stretch: ultra-expanded;
+}
+
+.recipes {  
+    background-color: #f5cdcd;
+    padding: 30px;
+    font-size: larger;
+}
+
+.main {  
+    height: 600px;
+    width: auto;
+}

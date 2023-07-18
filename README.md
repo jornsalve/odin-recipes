@@ -1,3 +1,5 @@
 # odin-recipes
 
-Will fill out this file after completing project
+Putting this on hold while learning about cyber security.
+
+TBC!
